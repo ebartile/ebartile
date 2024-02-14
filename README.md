@@ -1,11 +1,31 @@
-<a href="http://ebartile.medium.com" target="_blank"><img src="https://mycarug.sgp1.digitaloceanspaces.com/emma/Screenshot%202022-08-03%20at%2013.10.01.png"></a>
-<p align="center">Howdie! Join me on my <a href="https://www.youtube.com/channel/UCBnfBSPvGg_aRqU3inhhvQQ">YouTube channel</a> so you can learn more about me 🎥</p>
+<h2> Hello Friends!</h2>
+<div>
+<a href="https://www.twitter.com/ebartile" target="__blank"><img src="https://img.shields.io/twitter/follow/ebartile?style=social" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/emmanuelbartile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<p align="center">
-  <a href="http://twitter.com/ebartile">
-    <img src="https://img.shields.io/twitter/follow/ebartile?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Bartile Emmanuel's Twitter"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCBnfBSPvGg_aRqU3inhhvQQ/featured">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCBnfBSPvGg_aRqU3inhhvQQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Bartile Emmanuel's YouTube channel"/>
-  </a>
-</p>
+<a href="http://www.ebartile.com" target="_blank">
+<img src="https://img.shields.io/website?label=ebartile.com&up_color=blue&up_message=up&url=https%3A%2F%2Febartile.com" alt="Projects"/>
+</a>
+
+
+<br>
+<br>
+
+
+A bit about me 👇
+<br>
+
+- 🖥 I’m a Senior Software Engineer, writer, and creator.
+- 🐥 [Tweet](https://twitter.com/ebartile) about technology, learning and memes.
+- 💬 I write about Technology at [medium](https://ebartile.medium.com/) and my personal [blog](https://ebartile.com/blog).
+- 🔭 I’m currently working on: Fullstack development (React, Django, Python) and trying to purse masters in Data Science, AI, Machine learning.
+- 🤝 Rarely post at [Instagram](https://instagram.com/ebartile)
+
+I've done a ton of [projects](https://ebartile.com/projects) involving various stacks and technologies, 
+View my [resume]([https://drive.google.com/file/d/17x95t0hqPG98FFFzF9Cx9BacJ4qNcuBw/view?usp=sharing), 
+Ask me anything [here](https://github.com/ebartile/ebartile/issues/new), 
+or [email](mailto:ebartile@gmail.com) me. 
+<br>
+Happy Coding, my brothers! 💪🏽 <br>
+
+</div>
